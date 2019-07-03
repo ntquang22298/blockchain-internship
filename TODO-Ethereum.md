@@ -11,13 +11,13 @@
 
 ## Về công việc cá nhân
 
-- [ ] Tìm hiểu & thực hành về git
-- [ ] Config môi trường lập trình trên vscode
+- [x] Tìm hiểu & thực hành về git
+- [x] Config môi trường lập trình trên vscode
 - [ ] Hoàn thành các chuỗi bài Ethernaut & Capture the Ether
-- [ ] Tìm hiểu & thực hành viết smart contract với Remix
-- [ ] Tìm hiểu & thực hành về Truffle
+- [x] Tìm hiểu & thực hành viết smart contract với Remix
+- [x] Tìm hiểu & thực hành về Truffle
 - [ ] Tìm hiểu về các loại testnet: Local, Ropsten, Loom, Tomo, biết cách config & deploy
-- [ ] Tìm hiểu về ganache & truffle develop, biết cách debug contract
+- [x] Tìm hiểu về ganache & truffle develop, biết cách debug contract
 - [ ] Tìm hiểu & thực hành về web3js
 - [ ] Tìm hiểu & thực hành về reactjs
 - [ ] Tìm hiểu & thực hành về viết unit test
