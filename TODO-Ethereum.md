@@ -13,10 +13,10 @@
 
 - [x] Tìm hiểu & thực hành về git
 - [x] Config môi trường lập trình trên vscode
-- [ ] Hoàn thành các chuỗi bài Ethernaut & Capture the Ether
+- [x] Hoàn thành các chuỗi bài Ethernaut & Capture the Ether
 - [x] Tìm hiểu & thực hành viết smart contract với Remix
 - [x] Tìm hiểu & thực hành về Truffle
-- [ ] Tìm hiểu về các loại testnet: Local, Ropsten, Loom, Tomo, biết cách config & deploy
+- [x] Tìm hiểu về các loại testnet: Local, Ropsten, Loom, Tomo, biết cách config & deploy
 - [x] Tìm hiểu về ganache & truffle develop, biết cách debug contract
 - [ ] Tìm hiểu & thực hành về web3js
 - [ ] Tìm hiểu & thực hành về reactjs
